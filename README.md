@@ -9,6 +9,8 @@ Enter the required information and credentials in the config.py file.
 
 Scripts are expected to be executed in a trusted environment with proper security settings. 
 
+Make sure to enable MV sense API on the camera and add an MQTT broker
+
 Registration on platerecognizer.com is required with an optional paid subscription. 
 
 
