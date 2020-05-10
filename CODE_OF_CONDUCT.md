@@ -9,6 +9,7 @@ Examples of behavior that contributes to creating a positive environment include
 * Being respectful of differing viewpoints and experiences
 * Gracefully accepting constructive criticism
 * Showing empathy towards other people
+
 Examples of unacceptable behavior include:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or advances
